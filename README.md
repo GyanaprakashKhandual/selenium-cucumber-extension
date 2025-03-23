@@ -18,7 +18,7 @@
 🥒 Write Cucumber steps  
 🖱️ Press ctrl+shift+p 
 🔄 Click **Generate Selenium Step Definitions**  
-📋 Copy & paste into your test files  
+📋 And step-definitons are automatically copied to the clipboard
 
 ## 🔧 Configuration  
 ⚙️ Customize in `settings.json`  
