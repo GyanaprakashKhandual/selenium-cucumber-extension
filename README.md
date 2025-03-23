@@ -11,12 +11,12 @@
 ## 📥 Installation  
 1️⃣ Open **VS Code**  
 2️⃣ Go to **Extensions Marketplace** 🏪  
-3️⃣ 🔍 Search for **Step Definition Generator**  
+3️⃣ 🔍 Search for **Selenium-Cucumber**  
 4️⃣ ✅ Click **Install**  
 
 ## 🎯 Usage  
 🥒 Write Cucumber steps  
-🖱️ Select & right-click  
+🖱️ Press ctrl+shift+p 
 🔄 Click **Generate Selenium Step Definitions**  
 📋 Copy & paste into your test files  
 
